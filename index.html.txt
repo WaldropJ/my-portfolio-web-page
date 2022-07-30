@@ -13,40 +13,49 @@
 <h3> Software Developer</h3>
 </header>
 <main>
-<img src= "images/javascript.png">
+<img src= "images/javascript.png" alt= "code">
 <article>
 <section>
-<h2>Introduction<h2>
+<hr>
+<h2>Introduction</h2>
 <ul>
 <p>My interests include:</p>
 <li>web development</li>
 <li>problem solving</li>
 <li>learning new things</li>
 </ul>
-
+<hr>
+<h3> Who am I? </h3>
 <p> My name is Joshua Waldrop</p>
+<h3> Where can you find me?</h3>
 <p> I am currently residing in Chattanooga, Tennessee </p>
 <hr>
 </section>
+</article>
+<article>
 <section>
 <h2>About Me</h2>
-<p> I love learning web development, as I find it very fun to problem solve and create vibrant html pages and I am excited to learn from the work of others</p>
-<p> Aside from web development, my hobbies are playing pickup basketball and bass fishing </p>
+<ul>
+<li> <p> I love learning web development, as I find it very fun to problem solve and create vibrant html pages and I am excited to learn from the work of others</p> </li>
+<li> <p> Aside from web development, my hobbies are playing pickup basketball and bass fishing </p> </li>
+</ul>
 </section>
+</article>
 <hr>
+<artilce>
 <section>
 <h2>Contact Me</h2>
- <a href= "https://www.linkedin.com/in/josh-w-4a4045247/">linkedin profile</a> 
- <a href= "https://github.com/WaldropJ">github profile</a> 
+<ol>
+<li> <a href= "https://www.linkedin.com/in/josh-w-4a4045247/">linkedin profile</a> </li>
+<li> <a href= "https://github.com/WaldropJ">github profile</a> </li>
+</ol>
 </section>
 </article
 </main>
-</body>
 <footer>
-<div>
 <p> Josh Waldrop Portfolio </p>
-</div>
 </footer>
+</body>
 </html>
 
 
