@@ -1,26 +1,60 @@
 h1 {
   background-color: black;
-  color: white;
+  color: lime;
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
-  margin: 70px;
+  font-family: cursive;
+  font-style:italic;
+  margin: 80px;
   padding: 70px;
+  letter-spacing: 8px;
+}
+h2 {
+  text-align: center;
 }
 h3 {
   text-align:center;
   font-size: 25px;
-  color: white;
+  color: red;
+}
+h4 {
+  color:limegreen;
+}
+hr{
+  height: 5px;
+  width:50%;
+  background-color: purple;
+  color: purple;
+  border: none;
+  border-top: 10px dashed red;
 }
  body {
   background-color: black;
   color: red;
 }
-p {
-  font-family: cursive;
-  font-height:80px;
+article {
   text-align: center;
-  
+  color:red;
 }
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color:white; 
+  font-size: 14px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+ ul {
+   display: table;
+   margin: 0 auto;
+   color:blueviolet;
+   font-size: 20px;
+   text-align: left;
+   font-family: Arial, Helvetica, sans-serif;
+ }
 footer {
   color: white;
   text-align:center;
@@ -37,11 +71,17 @@ a:hover {
 a:active {
   color:lightskyblue;
 }
-
-  
-
-
-
-
-  
- 
+ol {
+  display:table;
+  margin: 0 auto;
+}
+ div {
+        width: auto;
+        text-align: center;
+        padding: 15px;
+        border: 3px;
+ }
+img {
+        max-width: 100%;
+        height: auto;
+      }
