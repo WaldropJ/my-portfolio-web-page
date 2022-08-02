@@ -33,7 +33,7 @@ footer {
 }
 hr{
   height: 5px;
-  width: 80%;
+  width: 90%;
   background-color: purple;
   color: purple;
   border: none;
@@ -54,7 +54,7 @@ p {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   color:white; 
-  font-size: 12px;
+  font-size: 14px;
 }
 .center {
   display: block;
